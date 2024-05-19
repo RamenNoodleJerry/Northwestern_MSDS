@@ -6,4 +6,4 @@ This course introduces several machine learning methods from simple linear regre
 
 ### **MSDS420 Database System**
 
-This course introduces SQL query, Geodata Folium mapping, NoSQL database and query language like Elastic Search, Milvus vector database search. 
+This course introduces Relational Database and SQL query, Geodata Folium mapping, NoSQL databases like documents-based, vector-based, and graph-relational database, and their query languages like Elastic Search, and Milvus search. Finally the course also introduced prompt engineering and Informational Retrieval.
