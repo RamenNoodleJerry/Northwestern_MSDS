@@ -8,7 +8,7 @@ The data were collected from the Taiwan Economic Journal for the years 1999 to 2
 
 Split the training set into an 80% training and 20% validation set and conduct EDA. 
 
-Build six models: 
+Build six models trying to predict if a company will go bankruptcy eventually using features provided: 
 
 an SVM, 
 
