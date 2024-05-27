@@ -1,4 +1,4 @@
-**Financial Time Series**
+## Financial Time Series
 
 Financial time series is an obvious area for the use of RNN, as the sequence is more important than the individual observations. 
 By building models to forecast indices, We learn how to employ them in time series modeling. 
