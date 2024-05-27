@@ -2,7 +2,7 @@
 
 ### **MSDS422 Practical Machine Learning Project**
 
-This course introduces several machine learning methods from simple linear regression to neural networks. 
+This course introduces several machine learning methods from simple linear regression to neural networks MLP/RNN/CNN. 
 
 ### **MSDS420 Database System**
 
