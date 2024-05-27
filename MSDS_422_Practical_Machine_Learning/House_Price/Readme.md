@@ -12,3 +12,5 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 2. Exploratory Data Analysis
 3. Simple Regression
 4. Advanced Lasso/Ridge/ElasticNet Regularized Regression
+
+**Check DataDescription File for Data Dictionary**
