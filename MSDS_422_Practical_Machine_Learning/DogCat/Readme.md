@@ -7,9 +7,15 @@ Distinguish images of dogs from cats using CNN Neural Network, built using Tenso
 
 **Requirements**
 Conduct your analysis using a cross-validation design.
+
 Conduct EDA.
+
 Build at least three CNN models based on hyperparameter tuning.
+
 Evaluate goodness of fit metrics.
+
 Build ROC and Precision / Recall graphs.
-Once you have your best-performing models, classify the test data and submit it to Kaggle. Provide your Kaggle.com user name and screen snapshots of your scores.
-Discuss your model’s performance.
+
+Classify the test data using best model and submit it to Kaggle.
+
+Discuss model’s performance.
