@@ -16,3 +16,4 @@ CNN, Neural Networks - **CatDog**
 
 RNN(LSTM) - **Financial Time Series**
 
+A combination of every classification model - **Final Project**
