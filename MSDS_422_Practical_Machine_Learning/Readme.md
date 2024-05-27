@@ -10,9 +10,9 @@ Logistic Regression, SVM, KNN - **Bankruptcy**
 
 Tree-based Model (Decision Tree, Random Forest, XGBoosted Tree) - **Bankruptcy**
 
-K-Means Clustering, PCA - **MNIST Digit**
+K-Means Clustering, PCA，MLP Neural Networks - **MNIST Digit**
 
-MLP, CNN, Neural Networks - **CatDog**
+CNN, Neural Networks - **CatDog**
 
 RNN(LSTM) - **Financial Time Series**
 
