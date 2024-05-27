@@ -1,4 +1,6 @@
 ## MNIST Digit Recognizer: PCA, Random Forest, K-Means, Neural Networks
+https://www.kaggle.com/c/digit-recognizer
+Learn computer vision fundamentals with the famous MNIST data
 
 “MNIST ("Modified National Institute of Standards and Technology") is the de facto “hello world” dataset of computer vision.” It is a classic dataset to use for measuring and benchmarking 
 classification algorithms. In this research, we will identify correct digits from a dataset of tens of thousands of handwritten images. 
