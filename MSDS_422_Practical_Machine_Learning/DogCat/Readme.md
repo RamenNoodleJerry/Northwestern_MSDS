@@ -6,7 +6,8 @@ Distinguish images of dogs from cats using CNN Neural Network, built using Tenso
 
 
 **Requirements**
-Conduct your analysis using a cross-validation design.
+
+Conduct analysis using a cross-validation design.
 
 Conduct EDA.
 
