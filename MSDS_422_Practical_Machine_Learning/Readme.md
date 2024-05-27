@@ -12,5 +12,5 @@ K-Means Clustering, PCA
 
 Tree-based Model (Decision Tree, Random Forest, XGBoosted Tree)
 
-MLP, CNN, RNN Neural Networks
+MLP, CNN, RNN(LSTM) Neural Networks
 
