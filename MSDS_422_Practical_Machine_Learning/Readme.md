@@ -2,9 +2,9 @@
 This folder contains projects related to using machine learning methods to forecast/classify datasets
 ## Key Models: 
 
-Linear Regression 
+Linear Regression - House Price
 
-Regularized Regression
+Regularized Regression - House Price
 
 Logistic Regression, SVM, KNN
 
