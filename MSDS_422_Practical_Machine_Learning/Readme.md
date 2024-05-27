@@ -6,11 +6,11 @@ Linear Regression - House Price
 
 Regularized Regression - House Price
 
-Logistic Regression, SVM, KNN
+Logistic Regression, SVM, KNN - Bankruptcy
+
+Tree-based Model (Decision Tree, Random Forest, XGBoosted Tree) - Bankruptcy
 
 K-Means Clustering, PCA
-
-Tree-based Model (Decision Tree, Random Forest, XGBoosted Tree)
 
 MLP, CNN, RNN(LSTM) Neural Networks
 
