@@ -12,5 +12,7 @@ Tree-based Model (Decision Tree, Random Forest, XGBoosted Tree) - **Bankruptcy**
 
 K-Means Clustering, PCA - **MNIST Digit**
 
-MLP, CNN, RNN(LSTM) Neural Networks - **CatDog**
+MLP, CNN, Neural Networks - **CatDog**
+
+RNN(LSTM) - **Financial Time Series**
 
