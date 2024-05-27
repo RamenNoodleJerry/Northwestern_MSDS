@@ -8,7 +8,8 @@ The data were collected from the Taiwan Economic Journal for the years 1999 to 2
 
 Split the training set into an 80% training and 20% validation set and conduct EDA. 
 
-Build at six models: 
+Build six models: 
+
 an SVM, 
 
 a logistic regression model, 
